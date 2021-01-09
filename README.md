@@ -1,7 +1,12 @@
 # GlobalAIHubMLCourse
 ![](img/logo.png)
 
-**Course Date:** 4-8 January 2021
+### Course Name: Introduction to ML
 **Name:** Semih 
-**Surname:** Akmeşe
+**Surname:** Akmese
 **Email:** semih1618@gmail.com
+
+## Project Name
+Introduction to ML
+
+---
